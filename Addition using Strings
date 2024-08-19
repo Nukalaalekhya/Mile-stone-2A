@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class AdditionUsingStringsV2 {
+class AdditionUsingStrings {
     public String additionUsingStrings(String input1, String input2) {
         StringBuilder result = new StringBuilder();
         int carry = 0;
